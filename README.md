@@ -2,10 +2,8 @@
 It's to descripte my regular life or funny thing or good idea<br>
 
 ## 简单说明
-当个笔记吧，毕竟其他平台都开放了。而且，挺不错，就是国内访问有点小问题，不过都不是大问题了，只要能安心的写东西就行了<br>
-
+当个笔记吧，毕竟其他平台都开放了。而且，挺不错，就是国内访问有点小问题，不过都不是大问题了，只要能安心的写东西就行了。
 <br>
-嗯！
 
 ## 关于语言
 
@@ -14,3 +12,5 @@ It's to descripte my regular life or funny thing or good idea<br>
 ## 关于内容
 
 主要以记录个人生活为主，没什么技术含量。
+<br><br><br>
+嗯！
