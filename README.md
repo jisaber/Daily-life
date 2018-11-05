@@ -14,3 +14,6 @@ It's to descripte my regular life or funny thing or good idea<br>
 主要以记录个人生活为主，没什么技术含量。
 <br><br><br>
 嗯！
+
+## 1103
+这应该是人生中的一道坎，跨过去了，也许就是平坦大道，过不去就是万丈深渊。
